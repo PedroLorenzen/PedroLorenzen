@@ -51,7 +51,7 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 <a href="mailto:christianplorenzen@outlook.com">
   <img align="left" alt="By Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
-<a href="https://www.linkedin.com/in/296151238">
+<a href="https://www.linkedin.com/in/christian-pedro-fernandez-lorenzen-296151238/">
   <img align="left" alt="By LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <br /> 
