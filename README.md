@@ -20,7 +20,7 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLorenzen&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamePedroLorenzen&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorenzen&layout=compact)](https://github.com/PedroLorenzen)
 
 ## 🚀 Featured Projects
 - **Project Name 1**: A brief description. [🔗](#)
