@@ -30,8 +30,8 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 Feel free to check out more of my repositories for a deeper dive into my coding adventures!
 
 ## 📫 How to Reach Me
-- **Email**: [your-email](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- **Email**: [christianplorenzen@outlook.com](mailto:christianplorenzen@outlook.com)
+- **LinkedIn**: [Christian Pedro Fernández Lorenzen](https://www.linkedin.com/in/christian-pedro-fernandez-lorenzen-296151238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app) 
 
 ## 😄 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities. Whether it's tech, physiotherapy, sports, or anything else, let's chat!
