@@ -43,7 +43,7 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 ### 🎉 2023 Year in Review
 <div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
 
-- <img src="https://img.shields.io/badge/Total%20Contributions-400%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
+- <img src="https://img.shields.io/badge/Total%20Contributions-500%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
 
 - **Most Used Languages**:
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
