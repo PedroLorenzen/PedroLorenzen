@@ -17,11 +17,6 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 - **React.js & React Native** for front-end and mobile app development
 - **Python** for its versatility in scripting, data analysis, and backend services
 
-## 📈 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLorenzen&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorenzen&layout=compact)](https://github.com/PedroLorenzen)
-
 ## 🚀 Featured Projects
 - **Project Name 1**: A brief description. [🔗](#)
 - **Project Name 2**: A brief description. [🔗](#)
@@ -29,9 +24,37 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 
 Feel free to check out more of my repositories for a deeper dive into my coding adventures!
 
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorenzen&layout=compact)](https://github.com/PedroLorenzen)
+
+### 🎉 2023 Year in Review
+<div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
+
+- <img src="https://img.shields.io/badge/Total%20Contributions-400%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
+
+- **Most Used Languages**:
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</div>
+
+### 🎉 2024 Progress
+![2024 Stats](https://img.shields.io/badge/2024%20Progress-See%20My%20Stats-blue?style=for-the-badge&logo=github)
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLorenzen&show_icons=true&theme=radical)
+
 ## 📫 How to Reach Me
-- **Email**: [christianplorenzen@outlook.com](mailto:christianplorenzen@outlook.com)
-- **LinkedIn**: [Christian Pedro Fernández Lorenzen](https://www.linkedin.com/in/christian-pedro-fernandez-lorenzen-296151238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app) 
+
+<a href="mailto:christianplorenzen@outlook.com">
+  <img align="left" alt="By Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
+<a href="https://www.linkedin.com/in/296151238">
+  <img align="left" alt="By LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<br /> 
 
 ## 😄 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities. Whether it's tech, physiotherapy, sports, or anything else, let's chat!
