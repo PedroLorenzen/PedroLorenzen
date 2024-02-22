@@ -18,9 +18,21 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 - **Python** for its versatility in scripting, data analysis, and backend services
 
 ## 🚀 Featured Projects
-- **Project Name 1**: A brief description. [🔗](#)
-- **Project Name 2**: A brief description. [🔗](#)
-- **Project Name 3**: A brief description. [🔗](#)
+### Popcorntime
+A fullstack webapplication that works as a cinema booking system.
+- [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-PopcornTime)
+- [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-PopcornTime)
+
+### OpskriftOasen
+Also a fullstack webapplication incorporating ChatGPT, generating specific recipies for your meal.
+- [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-OpskriftOasen)
+- [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-OpskriftOasen)
+
+### OrderProject
+A fullstack webapplication created for a real costumer, gathering 2 different selling platforms and centralisering all shipping orders.
+There is also a thorough statistics page for all his orders, showing countries, products, income etc.:
+- [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-FE)
+- [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-BE)
 
 Feel free to check out more of my repositories for a deeper dive into my coding adventures!
 
