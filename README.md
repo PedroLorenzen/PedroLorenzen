@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Lorenzen 👋
+# Hi there, I'm Christian Lorenzen 👋
 
 I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the vast world of coding and technology. Here's a glimpse into my journey and interests!
 
