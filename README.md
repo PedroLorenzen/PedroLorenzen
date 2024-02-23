@@ -3,14 +3,25 @@
 I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the vast world of coding and technology. Here's a glimpse into my journey and interests!
 
 ## 🛠️ Technologies & Tools
+### 💻 Languages and Frameworks
 ![](https://img.shields.io/badge/Code-Java-green?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/ORM-Hibernate-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Specification-Java%20Persistence%20API-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-green?style=for-the-badge&logo=spring-boot)
+
+### 🌐 Frontend Technologies
+![](https://img.shields.io/badge/Front_End-CSS/HTML/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=blue)
+
+### 💾 Database Technologies
 ![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/Database-H2-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4jZ2Tu0tCcRTHPzPzktbGRSLBG7i2g4kLobi1tJWFi4+gN0EULCxsLG0Ubdy0sLBGQRAE3YIgCIIgCIIg+AMGZnZ3dmfIIXfuueece875Ps/zPO/5nvM8T/P5fL6vWCy2ZVmW5Xl+uVz+er1+oVAo3O12u91ut9vtfq/X6+rq+v1+oVAoBEHwfr/f7/c4Ho/n8/l8PB6P3W53Op1ut9vt9Xq9Xq/XKxQK3+/3er1er9f7/b5cLhkMBr1e7+7u7u7u7u7uVyuUqlUoVCof7+/t7e3uVyucrkcjgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XAwGAzG43A4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PheDwej8fj8Xg8Ho/H4/G4XC6fz+dzOp1Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqdTqfT6fQ6nU6n02k2m81ms9lsNpvNZrPZbDb7/X6/3293e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t4D8kgABJru8ufAAAAABJRU5ErkJggg==)
+
+### 🛠️ DevOps and Tools
 ![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Front_End-CSS/HTML/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=blue)
 ![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
+
 
 ## 🌱 I'm Currently Learning
 - **Node.js** for backend development
