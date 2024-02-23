@@ -15,6 +15,7 @@ I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the
 ### 💾 Database Technologies
 ![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/Database-H2-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4jZ2Tu0tCcRTHPzPzktbGRSLBG7i2g4kLobi1tJWFi4+gN0EULCxsLG0Ubdy0sLBGQRAE3YIgCIIgCIIg+AMGZnZ3dmfIIXfuueece875Ps/zPO/5nvM8T/P5fL6vWCy2ZVmW5Xl+uVz+er1+oVAo3O12u91ut9vtfq/X6+rq+v1+oVAoBEHwfr/f7/c4Ho/n8/l8PB6P3W53Op1ut9vt9Xq9Xq/XKxQK3+/3er1er9f7/b5cLhkMBr1e7+7u7u7u7u7uVyuUqlUoVCof7+/t7e3uVyucrkcjgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XAwGAzG43A4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PheDwej8fj8Xg8Ho/H4/G4XC6fz+dzOp1Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqdTqfT6fQ6nU6n02k2m81ms9lsNpvNZrPZbDb7/X6/3293e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t4D8kgABJru8ufAAAAABJRU5ErkJggg==)
+![](https://img.shields.io/badge/Database-firebase-blue?style=for-the-badge&logo=firebase)
 
 ### 🛠️ DevOps and Tools
 ![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
