@@ -3,7 +3,7 @@
 I'm a passionate programmer from Copenhagen, Denmark, continuously exploring the vast world of coding and technology. Here's a glimpse into my journey and interests!
 
 ## 🛠️ Technologies & Tools
-### 💻 Languages and Frameworks
+### 💻 Backend and Frameworks
 ![](https://img.shields.io/badge/Code-Java-green?style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/ORM-Hibernate-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/Specification-Java%20Persistence%20API-blue?style=for-the-badge)
