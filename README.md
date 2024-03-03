@@ -25,9 +25,22 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 
 ## 🌱 I'm Currently Learning
-- **Node.js** for backend development
-- **React.js & React Native** for front-end and mobile app development
-- **Python** for its versatility in scripting, data analysis, and backend services
+
+### 📱 App Development
+![](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
+![](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+### 🖥️ Full Stack Development with JS, CSS, HTML & Node.js
+![](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🐍 Python Projects
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🚀 Featured Projects
 ### Popcorntime
