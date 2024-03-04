@@ -47,17 +47,22 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 A fullstack webapplication that works as a cinema booking system.
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-PopcornTime)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-PopcornTime)
+- [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/Usj8HNdK8kU)
 
 ### OpskriftOasen
 Also a fullstack webapplication incorporating ChatGPT, generating specific recipies for your meal.
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-OpskriftOasen)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-OpskriftOasen)
+- [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/KxUWM-JMhu4)
+
 
 ### OrderProject
 A fullstack webapplication created for a real costumer, gathering 2 different selling platforms and centralisering all shipping orders.
 There is also a thorough statistics page for all his orders, showing countries, products, income etc.:
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-FE)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-BE)
+- [![Project Overview](https://img.shields.io/badge/Project-Overview-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/ProjektGruppe23/OrderProject-FE/blob/main/Project-view.pdf)
+
 
 Feel free to check out more of my repositories for a deeper dive into my coding adventures!
 
