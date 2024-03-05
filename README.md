@@ -31,7 +31,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
-### 🖥️ Full Stack Development with JS, CSS, HTML & Node.js
+### 🖥️ Full Stack Development with JS, TS, CSS, HTML & Node.js
 ![](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
