@@ -32,10 +32,12 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ### 🖥️ Full Stack Development with JS, TS, CSS, HTML & Node.js
-![](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
+
 
 ### 🐍 Python Projects
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
