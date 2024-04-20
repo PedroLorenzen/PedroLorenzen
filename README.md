@@ -33,7 +33,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 ### 🖥️ Full Stack Development with JS, TS, CSS, HTML & Node.js
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
