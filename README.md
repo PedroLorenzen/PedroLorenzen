@@ -39,6 +39,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
 
 ### 🌐 Frontend Technologies
@@ -86,21 +87,31 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
 
 ## 🚀 Featured Projects
+
+### SkillHub
+My fullstack 4th semester examn project: A javascript web application where users can interact with other users for finding and sharing skills.
+- [![Repository](https://img.shields.io/badge/Repository-blue?style=flat-square&logo=github)](https://github.com/PedroLorenzen/NodeJS/tree/main/eksamensprojekt/SkillHub)
+- [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/aSVjHFs6QiY)
+
+### Adventure Book
+My React Native 4th semester examn app: Using firebase as security and database. Plan your next adventure or share your travel book with others to show them where you have been and what you have experienced.
+- [![Repository](https://img.shields.io/badge/Repository-blue?style=flat-square&logo=github)](https://github.com/PedroLorenzen/AppReactNative/tree/main/AdventureBook)
+- [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/8Cmbv6tx5Zg)
+
 ### Popcorntime
-A fullstack web application for managing cinema bookings, with user login, authentication, and ticket reservations.  
+A fullstack java & javascript web application for managing cinema bookings, with user login, authentication, and ticket reservations.  
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-PopcornTime)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-PopcornTime)
 - [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/Usj8HNdK8kU)
 
 ### OpskriftOasen
-Also a fullstack webapplication incorporating 3 different ChatGPT prompts, generating specific recipies for your meal based on criterias you set.
+Also a fullstack java & javascript webapplication incorporating 3 different ChatGPT prompts, generating specific recipies for your meal based on criterias you set.
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/FE-OpskriftOasen)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/BE-OpskriftOasen)
 - [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/KxUWM-JMhu4)
 
-
 ### OrderProject
-A business solution for a costumer, consolidating multi-platform orders and generating comprehensive statistics for products and revenue.
+A java & javascript business solution for a costumer, consolidating multi-platform orders and generating comprehensive statistics for products and revenue.
 - [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-FE)
 - [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/ProjektGruppe23/OrderProject-BE)
 - [![Project Overview](https://img.shields.io/badge/Project-Overview-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/ProjektGruppe23/OrderProject-FE/blob/main/Project-view.pdf)
