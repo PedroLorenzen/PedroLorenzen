@@ -28,6 +28,19 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 💾 Database Technologies
+![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
+![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+### 🛠️ DevOps and Tools
+![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
+
 ### 🌐 Frontend Technologies
 
 #### Languages
@@ -47,20 +60,6 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 💾 Database Technologies
-![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
-![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
-### 🛠️ DevOps and Tools
-![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
-![](https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
-
 
 ## 🌱 I'm Currently Working On
 
