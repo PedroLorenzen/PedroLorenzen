@@ -127,16 +127,14 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 <div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
 
 Working for 4 months as an associate software engineer at Avallone as part of my internship.
-Here I primarily used TypeScript, JavaScript, MUI and React.js. 
+Here I primarily used TypeScript, JavaScript, MUI and React.js. Sadly the github stats disappeared after the internship.
 
 - <img src="https://img.shields.io/badge/Total%20Contributions-500%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
 
-- **Most Used Languages**:
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Most Used Languages**:
+- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 </div>
 
