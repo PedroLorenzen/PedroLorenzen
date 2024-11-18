@@ -3,19 +3,55 @@
 I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Science and continuously exploring the vast world of coding and technology. Here's a glimpse into my journey and interests!
 
 ## 🛠️ Technologies & Tools
-### 💻 Backend and Frameworks
-![](https://img.shields.io/badge/Code-Java-green?style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/ORM-Hibernate-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Specification-Java%20Persistence%20API-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Framework-Spring_Boot-green?style=for-the-badge&logo=spring-boot)
+
+### 💻 Backend and Backend Frameworks
+
+#### TypeScript / JavaScript
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-yellow?style=for-the-badge&logo=express)
+![Socket.IO](https://img.shields.io/badge/RealTime-Socket.IO-black?style=for-the-badge&logo=socketdotio)
+![Resend](https://img.shields.io/badge/Email-Resend-red?style=for-the-badge&logo=resend)
+![Rate Limiter](https://img.shields.io/badge/Security-RateLimiter-orange?style=for-the-badge&logo=nodedotjs)
+
+#### Java
+![Java](https://img.shields.io/badge/Language-Java-green?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Bcrypt](https://img.shields.io/badge/Encryption-Bcrypt-purple?style=for-the-badge)
+![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
+![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
+
+#### Python
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend Technologies
-![](https://img.shields.io/badge/Front_End-CSS/HTML/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=blue)
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Build tools
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Frameworks
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### UI Design Tools
+![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 💾 Database Technologies
-![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
-![](https://img.shields.io/badge/Database-H2-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4jZ2Tu0tCcRTHPzPzktbGRSLBG7i2g4kLobi1tJWFi4+gN0EULCxsLG0Ubdy0sLBGQRAE3YIgCIIgCIIg+AMGZnZ3dmfIIXfuueece875Ps/zPO/5nvM8T/P5fL6vWCy2ZVmW5Xl+uVz+er1+oVAo3O12u91ut9vtfq/X6+rq+v1+oVAoBEHwfr/f7/c4Ho/n8/l8PB6P3W53Op1ut9vt9Xq9Xq/XKxQK3+/3er1er9f7/b5cLhkMBr1e7+7u7u7u7u7uVyuUqlUoVCof7+/t7e3uVyucrkcjgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XAwGAzG43A4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PheDwej8fj8Xg8Ho/H4/G4XC6fz+dzOp1Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqfz+dzOp1Op9PpdDqfz+dzOp0Op9PpdDqdTqfT6fQ6nU6n02k2m81ms9lsNpvNZrPZbDb7/X6/3293e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t4D8kgABJru8ufAAAAABJRU5ErkJggg==)
-![](https://img.shields.io/badge/Database-firebase-blue?style=for-the-badge&logo=firebase)
+![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
+![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ### 🛠️ DevOps and Tools
 ![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
@@ -24,25 +60,25 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
 
 
-## 🌱 I'm Currently Learning
+## 🌱 I'm Currently Working On
 
-### 📱 App Development
-![](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
-![](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+### 🖥️ Full Stack Product for a company 
+#### Backend
+![Java](https://img.shields.io/badge/Language-Java-green?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Bcrypt](https://img.shields.io/badge/Encryption-Bcrypt-purple?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-Mouser-lightgreen?style=for-the-badge&logo=mouser&logoColor=white)
+![HttpSession](https://img.shields.io/badge/Backend-Jakarta%20Servlet%20HttpSession-orange?style=for-the-badge&logo=java&logoColor=white)
 
-### 🖥️ Full Stack Development with JS, TS, CSS, HTML & Node.js
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
+#### Frontend
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+#### DevOps
 
-### 🐍 Python Projects
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
+TS, CSS, HTML & Node.j
 
 ## 🚀 Featured Projects
 ### Popcorntime
