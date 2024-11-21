@@ -4,7 +4,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Frotend and Backend Frameworks
+### 💻 Frontend and Backend Frameworks
 
 #### TypeScript / JavaScript
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
