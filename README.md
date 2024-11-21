@@ -58,12 +58,12 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
 ![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
 ### 🛠️ DevOps and Tools
 ![](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
