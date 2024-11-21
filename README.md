@@ -39,7 +39,6 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
 ![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
 ![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
 
@@ -75,26 +74,27 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ## 🌱 I'm Currently Working On
 
 ### 🖥️ Full Stack Product for a company 
+
+#### Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 #### Backend
-![Java](https://img.shields.io/badge/Language-Java-green?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?style=for-the-badge&logo=springboot)
-![Maven](https://img.shields.io/badge/Build%20Tool-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Encryption-Bcrypt-purple?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API_Integration-Mouser-lightgreen?style=for-the-badge&logo=mouser&logoColor=white)
 ![HttpSession](https://img.shields.io/badge/Session-Jakarta%20Servlet%20HttpSession-orange?style=for-the-badge&logo=java&logoColor=white)
 
-#### Frontend
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Build%20Tool-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![MUI](https://img.shields.io/badge/UI-MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
-![React.js](https://img.shields.io/badge/Framework-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 #### DevOps
-![](https://img.shields.io/badge/Cloud-Azure:%20VM%20&%20MySQL%20DB%20&%20Static%20Web%20App-blue?style=for-the-badge&logo=microsoftazure)
-![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
+![](https://img.shields.io/badge/Azure:%20VM%20&%20MySQL%20DB%20&%20Static%20Web%20App-blue?style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
 
 ---
 
@@ -139,9 +139,6 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 
 ### 🎉 2024 Year in Review
 <div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-
-Working for 4 months as an associate software engineer at Avallone as part of my internship.
-Here I primarily used TypeScript, JavaScript, MUI and React.js. Sadly the github stats disappeared after the internship.
 
 - <img src="https://img.shields.io/badge/Total%20Contributions-500%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
 
