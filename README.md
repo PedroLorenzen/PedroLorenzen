@@ -142,11 +142,9 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 ### 🎉 2024 Year in Review
 <div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
 
-- <img src="https://img.shields.io/badge/Total%20Contributions-500%2B%20commits-blue?style=flat-square" alt="Total Contributions" />
-
 **Most Used Languages**:
-- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
 
 </div>
