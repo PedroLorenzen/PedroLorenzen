@@ -4,47 +4,6 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Frontend and Backend Frameworks
-
-#### TypeScript / JavaScript
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Framework-Express.js-yellow?style=for-the-badge&logo=express)
-![Socket.IO](https://img.shields.io/badge/RealTime-Socket.IO-black?style=for-the-badge&logo=socketdotio)
-![Resend](https://img.shields.io/badge/Email-Resend-red?style=for-the-badge&logo=resend)
-![Rate Limiter](https://img.shields.io/badge/Security-RateLimiter-orange?style=for-the-badge&logo=nodedotjs)
-![bcrypt](https://img.shields.io/badge/bcrypt-blue?style=for-the-badge&logo=lock)
-![XSS Protection](https://img.shields.io/badge/XSS%20Protection-green?style=for-the-badge&logo=shield)
-![Sanitization](https://img.shields.io/badge/Sanitization-yellow?style=for-the-badge&logo=clean)
-
-#### Java
-![Java](https://img.shields.io/badge/Language-Java-green?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?style=for-the-badge&logo=springboot)
-![Maven](https://img.shields.io/badge/Build%20Tool-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Encryption-Bcrypt-purple?style=for-the-badge)
-![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
-![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
-
-#### Python
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 💾 Database Technologies
-![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
-![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
-### 🛠️ DevOps and Tools
-![](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
-![](https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
-
 ### 🌐 Frontend Technologies
 
 #### Languages
@@ -53,7 +12,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 #### Build Tools & Runtimes
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Frameworks
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -64,6 +23,54 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 💻 Backend Technologies
+
+#### TypeScript / JavaScript
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-yellow?style=for-the-badge&logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
+![Resend](https://img.shields.io/badge/Resend-red?style=for-the-badge&logo=resend)
+
+#### Java
+![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
+![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
+![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
+
+#### Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Security
+![Security](https://img.shields.io/badge/RateLimiter%20/%20Bcrypt%20/%20XSS%20/%20Sanitization-red?style=for-the-badge&logo=shield&logoColor=white)
+
+---
+
+### 💾 Database Technologies
+![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge)
+![firebase](https://img.shields.io/badge/firebase-blue?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+### 🛠️ DevOps and Tools
+![](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
+
+---
 
 ## 🌱 I'm Currently Working On
 
@@ -88,6 +95,8 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/Version_Control-GitHub-black?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Project_Management-Jira/Shortcut-blue?style=for-the-badge&logo=jira)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -121,6 +130,8 @@ A java & javascript business solution for a costumer, consolidating multi-platfo
 
 
 Feel free to check out more of my repositories for a deeper dive into my coding adventures!
+
+---
 
 ## 📈 GitHub Stats
 
