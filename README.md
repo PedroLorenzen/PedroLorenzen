@@ -137,6 +137,8 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorenzen&layout=compact)](https://github.com/PedroLorenzen)
 
+##### The stats from my internship at Avallone are not present (working fullstack with TS, React.js, MUI and MySQL)
+
 ### 🎉 2024 Year in Review
 <div style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
 
@@ -144,8 +146,8 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 
 **Most Used Languages**:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
 
 </div>
 
