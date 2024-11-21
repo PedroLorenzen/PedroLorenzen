@@ -13,6 +13,9 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![Socket.IO](https://img.shields.io/badge/RealTime-Socket.IO-black?style=for-the-badge&logo=socketdotio)
 ![Resend](https://img.shields.io/badge/Email-Resend-red?style=for-the-badge&logo=resend)
 ![Rate Limiter](https://img.shields.io/badge/Security-RateLimiter-orange?style=for-the-badge&logo=nodedotjs)
+![bcrypt](https://img.shields.io/badge/bcrypt-blue?style=for-the-badge&logo=lock)
+![XSS Protection](https://img.shields.io/badge/XSS%20Protection-green?style=for-the-badge&logo=shield)
+![Sanitization](https://img.shields.io/badge/Sanitization-yellow?style=for-the-badge&logo=clean)
 
 #### Java
 ![Java](https://img.shields.io/badge/Language-Java-green?style=for-the-badge&logo=java)
