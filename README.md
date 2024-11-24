@@ -47,6 +47,9 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask-SQLAlchemy](https://img.shields.io/badge/Flask_SQLAlchemy-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Security
 ![Security](https://img.shields.io/badge/RateLimiter%20/%20Bcrypt%20/%20XSS%20/%20Sanitization-red?style=for-the-badge&logo=shield&logoColor=white)
