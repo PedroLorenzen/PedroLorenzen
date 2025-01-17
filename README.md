@@ -74,9 +74,14 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 ---
 
+https://github.com/Hovedopgave2024/ShelfSenseFE
+
 ## 🌱 I'm Currently Working On
 
 ### 🖥️ Full Stack Product for a company 
+
+[![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseFE)
+[![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseBE)
 
 #### Frontend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
