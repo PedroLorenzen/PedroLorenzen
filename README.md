@@ -152,7 +152,7 @@ Feel free to check out more of my repositories for a deeper dive into my coding 
 
 </div>
 
-### 🎉 2024 Progress
+### 🎉 2025 Progress
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLorenzen&show_icons=true&theme=radical)
 
