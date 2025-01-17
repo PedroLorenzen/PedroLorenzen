@@ -91,7 +91,6 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API_Integration-Mouser-lightgreen?style=for-the-badge&logo=mouser&logoColor=white)
-![HttpSession](https://img.shields.io/badge/Session-Jakarta%20Servlet%20HttpSession-orange?style=for-the-badge&logo=java&logoColor=white)
 
 #### DevOps
 ![](https://img.shields.io/badge/Azure:%20VM%20&%20MySQL%20DB%20&%20Static%20Web%20App-blue?style=for-the-badge&logo=microsoftazure)
