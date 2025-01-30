@@ -78,7 +78,10 @@ https://github.com/Hovedopgave2024/ShelfSenseFE
 
 ## 🌱 I'm Currently Working On
 
-### 🖥️ Full Stack Product for a company 
+### 🖥️ Full Stack Application (ShelfSense). Access to platform is posible by request.
+ShelfSense is a modern full-stack application designed to revolutionize inventory management. Our platform helps businesses streamline operations, enhance efficiency, and gain real-time insights into both their own stock levels and those of their suppliers—all in one intuitive interface. <br> 
+- Automated Inventory Tracking ; supplier & Stock Insights with real-time analytics ; cloud-based architecture on a single VM through Digital Ocean. <br>
+- CI/CD: Automated testing, deployment and merge control.
 
 [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseFE)
 [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseBE)
@@ -97,8 +100,11 @@ https://github.com/Hovedopgave2024/ShelfSenseFE
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API_Integration-Mouser-lightgreen?style=for-the-badge&logo=mouser&logoColor=white)
 
+#### Database
+![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
 #### DevOps
-![](https://img.shields.io/badge/Azure:%20VM%20&%20MySQL%20DB%20&%20Static%20Web%20App-blue?style=for-the-badge&logo=microsoftazure)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean:%20Full%20stack%20VM-blue?style=for-the-badge&logo=digitalocean)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
