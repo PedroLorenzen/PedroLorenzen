@@ -37,7 +37,7 @@ I'm a passionate programmer from Copenhagen, Denmark. I'm studying Computer Scie
 
 #### Java
 ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=for-the-badge&logo=springboot)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
 ![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
@@ -95,7 +95,7 @@ ShelfSense is a modern full-stack application designed to revolutionize inventor
 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=for-the-badge&logo=springboot)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-purple?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API_Integration-Mouser-lightgreen?style=for-the-badge&logo=mouser&logoColor=white)
