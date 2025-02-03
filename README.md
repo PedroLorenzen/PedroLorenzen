@@ -74,8 +74,6 @@ I'm a passionate computer scientist from Copenhagen, Denmark. I'm continuously e
 
 ---
 
-https://github.com/Hovedopgave2024/ShelfSenseFE
-
 ## 🌱 I'm Currently Working On
 
 ### 🖥️ Full Stack Application (ShelfSense). Access to platform is posible by request.
