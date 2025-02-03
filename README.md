@@ -66,7 +66,7 @@ I'm a passionate computer scientist from Copenhagen, Denmark. I'm continuously e
 
 ### 🛠️ DevOps and Tools
 ![](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
