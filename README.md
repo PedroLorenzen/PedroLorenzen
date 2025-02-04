@@ -42,15 +42,6 @@ I'm a passionate computer scientist from Copenhagen, Denmark. I'm continuously e
 ![ChatGPT API](https://img.shields.io/badge/OpenAI-ChatGPT%20API-lightblue?style=for-the-badge&logo=openai)
 ![API Integration](https://img.shields.io/badge/API-Integrations-lightgreen?style=for-the-badge&logo=api)
 
-#### Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![](https://img.shields.io/badge/Subprocess-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Ollama-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask-SQLAlchemy](https://img.shields.io/badge/Flask_SQLAlchemy-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
 #### Security
 ![Security](https://img.shields.io/badge/RateLimiter%20/%20Bcrypt%20/%20XSS%20/%20Sanitization-red?style=for-the-badge&logo=shield&logoColor=white)
 
@@ -106,7 +97,7 @@ ShelfSense is a modern full-stack application designed to revolutionize inventor
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
-
+![Vitest](https://img.shields.io/badge/Testing%20with-Vitest(Jest),%20Mockito%20&%20Junit-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
