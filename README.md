@@ -71,7 +71,7 @@ I'm a passionate computer scientist from Copenhagen, Denmark. I'm continuously e
 ## 🌱 I'm Currently Working On
 
 ### 🖥️ Full Stack Application (ShelfSense). Access to platform is posible by request.
-ShelfSense is a modern full-stack application designed to revolutionize inventory management. Our platform helps businesses streamline operations, enhance efficiency, and gain real-time insights into both their own stock levels and those of their suppliers—all in one intuitive interface. <br> 
+As a hobby project beside my daily work as a Developer I play with developing and maintaining ShelfSense. it's a modern full-stack application designed to revolutionize inventory management. Our platform helps businesses streamline operations, enhance efficiency, and gain real-time insights into both their own stock levels and those of their suppliers—all in one intuitive interface. <br> 
 - Automated Inventory Tracking ; supplier & Stock Insights with real-time analytics ; cloud-based architecture on a single VM through Digital Ocean. <br>
 - CI/CD: Automated testing, deployment and merge control.
 
