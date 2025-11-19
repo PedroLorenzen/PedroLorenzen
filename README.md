@@ -75,6 +75,9 @@ As a hobby project beside my daily work as a Developer I play with developing an
 - Automated Inventory Tracking ; supplier & Stock Insights with real-time analytics ; cloud-based architecture on a single VM through Digital Ocean. <br>
 - CI/CD: Automated testing, deployment and merge control.
 
+If you want to play with it, simply reach out and I'll consider sending you login details for playing with the platform. For a quick overview here's a video of the project:
+- [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat-square&logo=youtube)](https://youtu.be/rRe7J8pVUZM)
+
 [![FE Repository](https://img.shields.io/badge/Frontend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseFE)
 [![BE Repository](https://img.shields.io/badge/Backend-Repo-blue?style=flat-square&logo=github)](https://github.com/Hovedopgave2024/ShelfSenseBE)
 
